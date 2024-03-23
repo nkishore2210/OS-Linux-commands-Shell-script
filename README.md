@@ -1335,7 +1335,6 @@ Enter your name: KISHORE
 Hello KISHORE, welcome to my program. 
 ```
 
-
 $ ./exread1.sh 
  
 cat funcex.sh
@@ -1416,7 +1415,6 @@ while (( "$#" )); do
 done
 set +x
 ```
-
  ./argshift.sh 1 2 3
  ## OUTPUT
  ```
