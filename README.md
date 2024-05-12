@@ -93,7 +93,6 @@ diff file1 file2
 -sumit chakrobarty
 +
 ```
-
 #Filters
 
 ### Create the following files file11, file22 as follows:
@@ -646,7 +645,6 @@ chmod 777 scriptest.sh
 ./scriptest.sh 1 2 3
 
 ## OUTPUT
-
 ```
 ./scriptest.sh: line 1: #!/bin/sh: No such file or directory
 “File name is ./scriptest.sh ”
@@ -866,7 +864,6 @@ $ ./iftest.sh
 ```
 “The test value 10 is greater than 5”
 “The values are different”
-
 ```
 
 # check if a file
